@@ -13,7 +13,6 @@ while True:
     if sueldo > 3000000:
         empleados3m += 1
 
-# Mostrar resultados
-print("Cantidad de empleados que cobran entre $1.000.000 y $10.000.000:", empleados10m)
-print("Cantidad de empleados que cobran más de $3.000.000:", empleados3m)
-print("Gasto total en sueldos al personal: $", gastot)
+print("Cantidad de empleados que cobran entre $1.000.000 y $10.000.000:",empleados10m)
+print("Cantidad de empleados que cobran más de $3.000.000:",empleados3m)
+print("Gasto total en sueldos al personal: $",gastot)
