@@ -12,4 +12,4 @@ def imprimir(enteros):
         print(x)        
         
 ingresar()
-imprimir(enteros)       
+imprimir()       
